@@ -1,0 +1,13 @@
+# Binaries and executables
+*.exe
+*.o
+*.obj
+
+# Video demo recordings
+*.mp4
+*.mkv
+*.mov
+
+# Temporary files
+*.bak
+*.tmp
